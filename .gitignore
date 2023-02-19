@@ -1,0 +1,13 @@
+.gradle
+build/
+.idea
+err.log
+
+*.iws
+*.iml
+*.ipr
+
+*.log
+
+!**/src/main/**
+!**src/test/**
